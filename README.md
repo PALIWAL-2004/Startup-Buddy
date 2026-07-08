@@ -22,7 +22,8 @@ Instead of building a cluttered multi-agent system that takes weeks to debug, th
 
 A clean, centralized form where the user inputs the foundational constraints of their startup idea.
 
-**Fields Required:**
+**Fields Required:**  
+
 
 - **Startup Idea:** (Textarea, max 500 characters)
 - **Target Audience:** (Input text, e.g., "School Teachers", "College Students")

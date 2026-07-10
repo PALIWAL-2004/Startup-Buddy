@@ -3,7 +3,7 @@
 **Project Name:** FounderPilot AI
 **Target Audience:** Aspiring Entrepreneurs, Indie Hackers, B.Tech Students
 **Author:** B.Tech Fresher (Full-Stack AI Developer)
-**Status:** Ready for Implementation
+**Status:** Ready for Implementation....
 **Tech Stack:** Antigravity (Framework), Next.js / Tailwind CSS (Frontend Layout), Google Gemini / OpenAI API (AI Intelligence), Supabase/PostgreSQL (Optional Database)
 
 ---

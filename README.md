@@ -1,6 +1,6 @@
 # Product Requirement Document (PRD)
 
-**Project Name:** FounderPilot AI
+**Project Name:** FounderPilotAI
 **Target Audience:** Aspiring Entrepreneurs, Indie Hackers, B.Tech Students
 **Author:** B.Tech Fresher (Full-Stack AI Developer)
 **Status:** Ready for Implementation....

@@ -5,7 +5,7 @@
 **Status:** Ready for Implementation....
 **Tech Stack:** Antigravity (Framework), Next.js / Tailwind CSS (Frontend Layout), Google Gemini / OpenAI API (AI Intelligence), Supabase/PostgreSQL (Optional Database)
 
----
+----------
 
 ## 1. Executive Summary & Objective
 

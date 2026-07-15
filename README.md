@@ -1,7 +1,7 @@
 # Product Requirement Document (PRD)
 
 **Project Name:** FounderPilotAI
-**Target Audience:** Aspiring Entrepreneurs, Indie Hackers, Students, anyone.
+**Target Audience:** Aspiring Entrepreneurs, Indie Hackers,anyone.
 **Status:** Ready for Implementation....
 **Tech Stack:** Antigravity (Framework), Next.js / Tailwind CSS (Frontend Layout), Google Gemini / OpenAI API (AI Intelligence), Supabase/PostgreSQL (Optional Database)
 
